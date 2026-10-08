@@ -63,7 +63,7 @@ npm run dev
 ## Project Structure
 
 \`\`\`
-src/
+Spotit-Citizen-Tracker-frontend/
 ├── app/
 │   ├── layout.tsx          # Root layout
 │   ├── globals.css         # Global styles
